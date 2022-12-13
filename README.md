@@ -116,7 +116,7 @@ It should similar to this in your word processor
 ![image](https://user-images.githubusercontent.com/63487881/205471916-75a83227-5336-4686-9b13-417db75e56f6.png)
 
 
-## Setup the Samaba Docker
+## Setup the Samba Docker
 
 Now that everything is setup on the linux side for the new network share, so open up the portainer web portal and if you havent already installed the samba docker container, find it in the app template and install it.
 
